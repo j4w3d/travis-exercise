@@ -1,2 +1,3 @@
 language: bash
+sudo: yes
 script: bash send-mail.sh
